@@ -3,4 +3,4 @@
 | Shortcut|What does it do|
 |---|---|
 |Ctrl + Tab|Switch between the tabs|
-|Ctrl SHort + W | Close the window|
+|Ctrl Short + W | Close the window|
