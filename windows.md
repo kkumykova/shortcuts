@@ -1,5 +1,5 @@
 # Windows Shortcuts
-
+## Chrome Shortcuts
 |Nr.| Shortcuts|What does it do|
 |---|---|---|
 |1|Ctrl + Tab|Switch between the tabs|
