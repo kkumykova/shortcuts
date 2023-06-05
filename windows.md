@@ -8,3 +8,8 @@
 |4|Ctrl + W|Close the tab|
 |5|||
 |6|||
+
+## Google Docs
+|Nr.| Shortcuts|What does it do|
+|---|---|---|
+|1|Alt + Enter|Click the link on Google Doc|
